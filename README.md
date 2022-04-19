@@ -13,7 +13,7 @@ A utils directory includes simple python scripts for doing useful things:
 
 If you use this dataset please reference the folowing paper:
 
-@InProceedings{me,
+@InProceedings{lannan,
 author = {Lannan, Nate and Zhou, Le and Fan, Guoliang},
 title = {A Multiview Depth-based Motion Capture Benchmark Dataset for Human Motion Denoising and Enhancement Research},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
